@@ -1,0 +1,270 @@
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\appsettings.json
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\APIDEMO.exe
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\APIDEMO.deps.json
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\APIDEMO.runtimeconfig.json
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\APIDEMO.runtimeconfig.dev.json
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\APIDEMO.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\APIDEMO.pdb
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.csproj.AssemblyReference.cache
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.AssemblyInfoInputs.cache
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.AssemblyInfo.cs
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.csproj.CoreCompileInputs.cache
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.MvcApplicationPartsAssemblyInfo.cache
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\staticwebassets\APIDEMO.StaticWebAssets.Manifest.cache
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\staticwebassets\APIDEMO.StaticWebAssets.xml
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIDEMO.styles.css
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.RazorTargetAssemblyInfo.cache
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.csproj.CopyComplete
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.dll
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.pdb
+D:\web application\web and mobile ITI\ASP.NET CORE API\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.genruntimeconfig.cache
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\appsettings.json
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\APIDEMO.exe
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\APIDEMO.deps.json
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\APIDEMO.runtimeconfig.json
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\APIDEMO.runtimeconfig.dev.json
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\APIDEMO.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\APIDEMO.pdb
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.AssemblyInfoInputs.cache
+D:\demo-fullstack\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.AssemblyInfo.cs
+D:\demo-fullstack\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.csproj.CoreCompileInputs.cache
+D:\demo-fullstack\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.MvcApplicationPartsAssemblyInfo.cache
+D:\demo-fullstack\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\staticwebassets\APIDEMO.StaticWebAssets.Manifest.cache
+D:\demo-fullstack\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\staticwebassets\APIDEMO.StaticWebAssets.xml
+D:\demo-fullstack\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIDEMO.styles.css
+D:\demo-fullstack\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.RazorTargetAssemblyInfo.cache
+D:\demo-fullstack\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.csproj.CopyComplete
+D:\demo-fullstack\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.dll
+D:\demo-fullstack\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.pdb
+D:\demo-fullstack\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.genruntimeconfig.cache
+D:\demo-fullstack\APIDEMO\APIDEMO\obj\Debug\netcoreapp3.1\APIDEMO.csproj.AssemblyReference.cache
